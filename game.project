@@ -1,0 +1,10 @@
+[project]
+title = VN
+dependencies = https://github.com/britzl/defold-richtext/archive/master.zip
+
+[bootstrap]
+main_collection = /tests/text.collectionc
+
+[input]
+game_binding = /main/input.input_bindingc
+
